@@ -54,23 +54,6 @@ O banco possui tabelas relacionadas para gerenciamento completo da LAN House.
 ![Modelo Lógico](./img/der3.jpeg)
 ---
 
-## 🚀 Como Executar
-
-1. Clone o repositório
-
-```bash
-git clone LINK_DO_REPOSITORIO
-```
-
-2. Abra o MySQL Workbench
-
-3. Execute o script SQL:
-
-```sql
-source banco_de_dados_lanhouse.sql;
-```
-
----
 
 ## 👨‍💻 Autores
 
