@@ -49,9 +49,10 @@ O banco possui tabelas relacionadas para gerenciamento completo da LAN House.
 
 # 🧩 Modelo Lógico (DER)
 
-![Modelo Lógico](./img/der1.jpeg)
-![Modelo Lógico](./img/der2.jpeg)
-![Modelo Lógico](./img/der3.jpeg)
+![Modelo Lógico](./img/der1.jpeg.png)
+![Modelo Lógico](./img/der2.jpeg.png)
+![Modelo Lógico](./img/der3.jpeg.png)
+![Modelo Lógico](./img/der4.jpeg.png)
 ---
 
 
