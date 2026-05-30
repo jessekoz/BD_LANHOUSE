@@ -1,4 +1,4 @@
-/*Relatório 01 - Ranking De Clientes Por Faturamento*/
+/*Relatório 01 - Ranking De Clientes Por Sessões*/
 
 SELECT C.NOME, C.EMAIL, 
 COUNT(S.IDSESSOES) AS TOTAL_SESSOES
